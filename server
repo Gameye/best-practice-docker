@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo game start
+sleep 5s
+echo game stop
